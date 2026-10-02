@@ -16,7 +16,7 @@
 
 ## 👨‍🏫 About Me
 
-I am a **Computer Science Engineer** and hold a **Master of Education (M.Ed.) in Higher Education Teaching and Research**.  
+I am a **Computer Science Engineer** | **Business Data Analyst** and hold a **Master of Education (M.Ed.) in Higher Education Teaching and Research**.  
 My work integrates **technology, education, and innovation**, with focus on:
 
 - Data analytics for decision-making in education
