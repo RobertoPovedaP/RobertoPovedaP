@@ -1,5 +1,5 @@
 <h1 align="center">Ing. Roberto Poveda, M.Ed.</h1>
-<h3 align="center">Computer Science Engineer | Master of Education (M.Ed.) in Higher Education Teaching and Research</h3>
+<h3 align="center">Computer Science Engineer | Business Data Analyst | Master of Education (M.Ed.) in Higher Education Teaching and Research</h3>
 
 <p align="center">
   <a href="https://github.com/RobertoPovedaP">
