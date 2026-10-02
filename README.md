@@ -1,5 +1,5 @@
-<h1 align="center">Ing. Roberto Poveda, M.Ed.</h1>
-<h3 align="center">Computer Science Engineer | Business Data Analyst | Master of Education (M.Ed.) in Higher Education Teaching and Research</h3>
+<h1 align="center">Ing. Roberto Poveda-Páez, M.Ed.</h1>
+<h3 align="center">Business Data Analyst | Computer Science Engineer | Tech Community Leader</h3>
 
 <p align="center">
   <a href="https://github.com/RobertoPovedaP">
@@ -8,80 +8,57 @@
   <a href="https://github.com/RobertoPovedaP?tab=followers">
     <img src="https://img.shields.io/github/followers/RobertoPovedaP?label=Followers&style=social" alt="followers" />
   </a>
-  <img src="https://img.shields.io/badge/Education-M.Ed.-informational" />
+  <img src="https://img.shields.io/badge/Data-Analytics-success" />
   <img src="https://img.shields.io/badge/Engineering-Computer%20Science-success" />
 </p>
 
 ---
 
-## 👨‍🏫 About Me
+## 👨‍💻 About Me
 
-I am a **Computer Science Engineer** | **Business Data Analyst** and hold a **Master of Education (M.Ed.) in Higher Education Teaching and Research**.  
-My work integrates **technology, education, and innovation**, with focus on:
+I am a **Business Data Analyst** and **Computer Science Engineer** passionate about transforming complex data into actionable business strategies and interactive visual narratives. With a strong foundation in tech leadership and educational innovation, I bridge the gap between raw data, technical development, and executive decision-making.
 
-- Data analytics for decision-making in education
-- Applied research and academic project development
-- Teaching in computing and digital transformation
-- Innovation ecosystems and hackathon-based learning
+- 📊 **Data Analytics & BI**: Exploring and validating data with robust **SQL**, and defining business metrics through interactive dashboards in **Power BI**.
+- 🤖 **Machine Learning & AI**: Building predictive models (e.g., Customer Churn, Market Clustering) using **Python** (Scikit-Learn) and integrating Generative AI as a daily tool to accelerate analysis, documentation, and coding.
+- 🚀 **Tech Leadership**: Founder of CORPCITI and Local Lead for the **NASA Space Apps Challenge** in Guayaquil, driving civic tech and open innovation.
 
 ---
 
-## 🎓 Academic Profile
+## 🛠️ Tech Stack & Tools
 
-- **M.Ed. in Higher Education Teaching and Research**
-- **B.Sc. in Computer Science Engineering**
-- Active in interdisciplinary innovation and educational initiatives
-
----
-
-## 🔬 Research & Teaching Interests
-
-- Higher education and teaching innovation  
-- Research methodology and applied educational studies  
-- Data analytics and evidence-based academic management  
-- STEM learning, project-based learning, and challenge-based education  
-- Digital skills development for students and professionals  
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Data
+### Data Science & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-F8D200?style=flat&logo=knime&logoColor=black)
 
-### Web & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django%20REST-A30000?style=flat&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-### Tools
+### Development, Cloud & AI
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![LLMs & AI](https://img.shields.io/badge/AI%20Tools-000000?style=flat&logo=openai&logoColor=white)
 
 ---
 
-## 📌 Selected Projects
+## 📌 Featured Projects
 
-- **Educational Innovation & Applied Research Projects**  
-  Design and implementation of academic and technological projects for higher education.
+- **🏦 Bank Churn Prediction Model (Machine Learning)**  
+  Applied data wrangling and SMOTE techniques to balance datasets, utilizing Scikit-Learn to predict customer churn and optimize telemarketing operational costs.
 
-- **Data Analytics Learning Path**  
-  Practical exercises and notebooks on data analysis with Python and SQL.
+- **🍻 Retail Market Clustering (Unsupervised Learning)**  
+  Segmented purchasing behavior from 220k+ transactions using K-Means, identifying core business profiles and optimizing loyalty strategies.
 
-- **Web Development Projects**  
-  Full-stack implementations using React, Django REST, and Node.js.
-
-> You can pin your best repositories below this profile section.
+- **🚑 Civic Tech & Emergency Big Data (ETL & BI)**  
+  Processed 11.3M+ historical records using Power Query and DAX to build dynamic risk evaluation KPIs and strategic spatial visualizations.
 
 ---
-
 
 ## 🌐 Connect with Me
-- Email: **rapprj4500@gmail.com**
+- ✉️ Email: **robertopovedapaez@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/robertopovedapaez](https://linkedin.com/in/robertopovedapaez)
+
 ---
 
-<p align="center"><i>“Education and technology are most powerful when they create real opportunities for people.”</i></p>
+<p align="center"><i>“Connecting business, data, and technology to generate real impact.”</i></p>
